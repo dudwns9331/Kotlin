@@ -1,5 +1,6 @@
 package chap02
 
+// 2019/07/28
 fun main() {
     println("Byte min: " + Byte.MIN_VALUE + " max : " + Byte.MAX_VALUE)
     println("Short min: " + Short.MIN_VALUE + " max : " + Short.MAX_VALUE)
